@@ -7,6 +7,7 @@
 | [0877-stone-game](https://github.com/55Riyajain/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/55Riyajain/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/55Riyajain/Leetcode/tree/master/1406-stone-game-iii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/55Riyajain/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/55Riyajain/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -47,10 +48,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/55Riyajain/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/55Riyajain/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/55Riyajain/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/55Riyajain/Leetcode/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
