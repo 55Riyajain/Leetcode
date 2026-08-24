@@ -9,6 +9,7 @@
 | [1386-cinema-seat-allocation](https://github.com/55Riyajain/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/55Riyajain/Leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/55Riyajain/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/55Riyajain/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/55Riyajain/Leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/55Riyajain/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/55Riyajain/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -25,6 +26,7 @@
 | [1406-stone-game-iii](https://github.com/55Riyajain/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/55Riyajain/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/55Riyajain/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/55Riyajain/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/55Riyajain/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/55Riyajain/Leetcode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/55Riyajain/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -38,6 +40,7 @@
 | [1406-stone-game-iii](https://github.com/55Riyajain/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/55Riyajain/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/55Riyajain/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/55Riyajain/Leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/55Riyajain/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
@@ -47,6 +50,7 @@
 | [1406-stone-game-iii](https://github.com/55Riyajain/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/55Riyajain/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/55Riyajain/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/55Riyajain/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/55Riyajain/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/55Riyajain/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -55,6 +59,7 @@
 | [1140-stone-game-ii](https://github.com/55Riyajain/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/55Riyajain/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/55Riyajain/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/55Riyajain/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/55Riyajain/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -62,6 +67,7 @@
 | [1140-stone-game-ii](https://github.com/55Riyajain/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/55Riyajain/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/55Riyajain/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/55Riyajain/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/55Riyajain/Leetcode/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
@@ -125,6 +131,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/55Riyajain/Leetcode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/55Riyajain/Leetcode/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
