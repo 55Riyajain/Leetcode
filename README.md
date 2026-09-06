@@ -39,6 +39,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/55Riyajain/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/55Riyajain/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/55Riyajain/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/55Riyajain/Leetcode/tree/master/1406-stone-game-iii) |
@@ -113,6 +114,7 @@
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/55Riyajain/Leetcode/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/55Riyajain/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/55Riyajain/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/55Riyajain/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
