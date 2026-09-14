@@ -27,6 +27,7 @@
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/55Riyajain/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/55Riyajain/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/55Riyajain/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/55Riyajain/Leetcode/tree/master/1406-stone-game-iii) |
@@ -217,4 +218,8 @@
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/55Riyajain/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/55Riyajain/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
